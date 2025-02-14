@@ -1,1 +1,2 @@
 Demonstrates how to use [Drawio site template](https://github.com/Nasdanika-Templates/drawio-site) to capture UX flows and elaborate individual elements.
+An illustration for the [Diagramming UX flows](https://medium.com/nasdanika/diagramming-ux-flows-44a056cc3a64) Medium story.
